@@ -11,7 +11,6 @@
  + Requirements
      - [Packages](packages)
      - [My hardware what to expect](hw)
-     - [Why's it broken?](disclaimer)
  + [Know issues](issues)
  + [Default Keybinds](keybinds)
  <h2> Credit</h2>
