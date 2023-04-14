@@ -15,7 +15,8 @@
  + [Default Keybinds](keybinds)
  <h2> Credit</h2>
 
- - [Star Nymph Studio](https://ko-fi.com/seren:fae/) - produce some wonderful wallpapers that are really cute for my rices
+ - [Star Nymph Studio](https://ko-fi.com/serenfae/) - produce some wonderful wallpapers that are really cute for my rices
  - Cat logo - Stable Diffusion v1.5 AI
  - [DistroTube](https://www.youtube.com/@DistroTube) - teaching me about linux and inspiring me to start ricing and other projects
-
+<h2>Extra</h2>
+Wallpaper: https://ko-fi.com/s/1f9a4d6b52
